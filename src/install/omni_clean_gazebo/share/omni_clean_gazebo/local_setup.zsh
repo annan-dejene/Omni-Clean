@@ -1,0 +1,1 @@
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/ament_cmake_environment_hooks/local_setup.zsh

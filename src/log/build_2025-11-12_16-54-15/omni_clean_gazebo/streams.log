@@ -1,0 +1,56 @@
+[0.020s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/src/install/omni_clean_gazebo
+[0.639s] -- The C compiler identification is GNU 13.3.0
+[0.840s] -- The CXX compiler identification is GNU 13.3.0
+[0.852s] -- Detecting C compiler ABI info
+[0.961s] -- Detecting C compiler ABI info - done
+[0.970s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.971s] -- Detecting C compile features
+[0.972s] -- Detecting C compile features - done
+[0.979s] -- Detecting CXX compiler ABI info
+[1.065s] -- Detecting CXX compiler ABI info - done
+[1.079s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.079s] -- Detecting CXX compile features
+[1.079s] -- Detecting CXX compile features - done
+[1.099s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.211s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.289s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.331s] -- Found ros_gz_sim: 1.0.16 (/opt/ros/jazzy/share/ros_gz_sim/cmake)
+[1.398s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.415s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.433s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.452s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.533s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.539s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.627s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.646s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.664s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.904s] -- Found ros_gz_interfaces: 1.0.16 (/opt/ros/jazzy/share/ros_gz_interfaces/cmake)
+[1.927s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.064s] -- Added test 'lint_cmake' to check CMake code style
+[2.066s] -- Added test 'xmllint' to check XML markup files
+[2.071s] -- Configuring done (2.0s)
+[2.083s] -- Generating done (0.0s)
+[2.095s] -- Build files have been written to: /home/parallels/omni_clean_ws/src/build/omni_clean_gazebo
+[2.111s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/src/install/omni_clean_gazebo
+[2.112s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/src/build/omni_clean_gazebo -- -j4 -l4
+[2.176s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/src/build/omni_clean_gazebo -- -j4 -l4
+[2.177s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/src/build/omni_clean_gazebo
+[2.188s] -- Install configuration: ""
+[2.188s] -- Execute custom install script
+[2.190s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/worlds/facade_world.sdf
+[2.202s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/ament_index/resource_index/package_run_dependencies/omni_clean_gazebo
+[2.214s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/ament_index/resource_index/parent_prefix_path/omni_clean_gazebo
+[2.222s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.sh
+[2.230s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.dsv
+[2.238s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.sh
+[2.244s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.dsv
+[2.252s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.bash
+[2.260s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.sh
+[2.266s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.zsh
+[2.272s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.dsv
+[2.277s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/package.dsv
+[2.283s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/ament_index/resource_index/packages/omni_clean_gazebo
+[2.290s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig.cmake
+[2.297s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig-version.cmake
+[2.305s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_gazebo/share/omni_clean_gazebo/package.xml
+[2.327s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/src/build/omni_clean_gazebo

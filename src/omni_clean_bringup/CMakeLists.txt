@@ -24,8 +24,6 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-ament_package()
-
 
 find_package(ament_cmake REQUIRED)
 find_package(ros_gz_sim REQUIRED)

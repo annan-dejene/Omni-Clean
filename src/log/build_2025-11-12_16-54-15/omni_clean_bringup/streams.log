@@ -1,0 +1,60 @@
+[0.021s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/src/install/omni_clean_bringup
+[0.629s] -- The C compiler identification is GNU 13.3.0
+[0.933s] -- The CXX compiler identification is GNU 13.3.0
+[0.948s] -- Detecting C compiler ABI info
+[1.053s] -- Detecting C compiler ABI info - done
+[1.063s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.063s] -- Detecting C compile features
+[1.063s] -- Detecting C compile features - done
+[1.067s] -- Detecting CXX compiler ABI info
+[1.190s] -- Detecting CXX compiler ABI info - done
+[1.196s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.197s] -- Detecting CXX compile features
+[1.197s] -- Detecting CXX compile features - done
+[1.200s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.372s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.475s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.520s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[1.520s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[1.574s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.587s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.607s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.624s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.705s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.708s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.782s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.797s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.816s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.060s] -- Found ros_gz_sim: 1.0.16 (/opt/ros/jazzy/share/ros_gz_sim/cmake)
+[2.065s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.163s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.164s] -- Configured 'flake8' exclude dirs and/or files: 
+[2.165s] -- Added test 'lint_cmake' to check CMake code style
+[2.166s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.167s] -- Added test 'xmllint' to check XML markup files
+[2.170s] -- Configuring done (2.1s)
+[2.182s] -- Generating done (0.0s)
+[2.186s] -- Build files have been written to: /home/parallels/omni_clean_ws/src/build/omni_clean_bringup
+[2.203s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/src/install/omni_clean_bringup
+[2.203s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/src/build/omni_clean_bringup -- -j4 -l4
+[2.241s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/src/build/omni_clean_bringup -- -j4 -l4
+[2.243s] Invoking command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/src/build/omni_clean_bringup
+[2.249s] -- Install configuration: ""
+[2.251s] -- Execute custom install script
+[2.251s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/launch/bringup.launch.py
+[2.261s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/ament_index/resource_index/package_run_dependencies/omni_clean_bringup
+[2.268s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/ament_index/resource_index/parent_prefix_path/omni_clean_bringup
+[2.277s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/environment/ament_prefix_path.sh
+[2.284s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/environment/ament_prefix_path.dsv
+[2.290s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/environment/path.sh
+[2.296s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/environment/path.dsv
+[2.302s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/local_setup.bash
+[2.308s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/local_setup.sh
+[2.315s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/local_setup.zsh
+[2.321s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/local_setup.dsv
+[2.326s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/package.dsv
+[2.334s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/ament_index/resource_index/packages/omni_clean_bringup
+[2.340s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/cmake/omni_clean_bringupConfig.cmake
+[2.346s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/cmake/omni_clean_bringupConfig-version.cmake
+[2.352s] -- Symlinking: /home/parallels/omni_clean_ws/src/install/omni_clean_bringup/share/omni_clean_bringup/package.xml
+[2.363s] Invoked command in '/home/parallels/omni_clean_ws/src/build/omni_clean_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/src/build/omni_clean_bringup

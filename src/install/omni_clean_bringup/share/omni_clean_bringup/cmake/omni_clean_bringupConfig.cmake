@@ -1,0 +1,1 @@
+/home/parallels/omni_clean_ws/src/build/omni_clean_bringup/ament_cmake_core/omni_clean_bringupConfig.cmake

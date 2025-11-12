@@ -1,0 +1,16 @@
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/urdf/drone.urdf.xacro
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/ament_index/resource_index/package_run_dependencies/omni_clean_description
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/ament_index/resource_index/parent_prefix_path/omni_clean_description
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.sh
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.dsv
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/environment/path.sh
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/environment/path.dsv
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/local_setup.bash
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/local_setup.sh
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/local_setup.zsh
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/local_setup.dsv
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/package.dsv
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/ament_index/resource_index/packages/omni_clean_description
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig.cmake
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig-version.cmake
+/home/parallels/omni_clean_ws/src/install/omni_clean_description/share/omni_clean_description/package.xml

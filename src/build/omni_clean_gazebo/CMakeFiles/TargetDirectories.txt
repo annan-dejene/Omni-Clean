@@ -1,0 +1,9 @@
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/uninstall.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/omni_clean_gazebo_uninstall.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/test.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/edit_cache.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/rebuild_cache.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/list_install_components.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/install.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/install/local.dir
+/home/parallels/omni_clean_ws/src/build/omni_clean_gazebo/CMakeFiles/install/strip.dir
