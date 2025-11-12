@@ -1,0 +1,35 @@
+[0.018s] Invoking command in '/home/parallels/omni_clean_ws/build/omni_clean_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/install/omni_clean_description
+[0.354s] -- The C compiler identification is GNU 13.3.0
+[0.478s] -- The CXX compiler identification is GNU 13.3.0
+[0.519s] -- Detecting C compiler ABI info
+[0.668s] -- Detecting C compiler ABI info - done
+[0.687s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.687s] -- Detecting C compile features
+[0.687s] -- Detecting C compile features - done
+[0.698s] -- Detecting CXX compiler ABI info
+[0.780s] -- Detecting CXX compiler ABI info - done
+[0.800s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.801s] -- Detecting CXX compile features
+[0.802s] -- Detecting CXX compile features - done
+[0.807s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.000s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.138s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.232s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[1.232s]   By not providing "Findxacro.cmake" in CMAKE_MODULE_PATH this project has
+[1.232s]   asked CMake to find a package configuration file provided by "xacro", but
+[1.232s]   CMake did not find one.
+[1.232s] 
+[1.232s]   Could not find a package configuration file provided by "xacro" with any of
+[1.232s]   the following names:
+[1.232s] 
+[1.232s]     xacroConfig.cmake
+[1.232s]     xacro-config.cmake
+[1.232s] 
+[1.232s]   Add the installation prefix of "xacro" to CMAKE_PREFIX_PATH or set
+[1.232s]   "xacro_DIR" to a directory containing one of the above files.  If "xacro"
+[1.233s]   provides a separate development package or SDK, be sure it has been
+[1.233s]   installed.
+[1.233s] 
+[1.233s] [0m
+[1.233s] -- Configuring incomplete, errors occurred!
+[1.238s] Invoked command in '/home/parallels/omni_clean_ws/build/omni_clean_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/parallels/omni_clean_ws/src/omni_clean_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/parallels/omni_clean_ws/install/omni_clean_description

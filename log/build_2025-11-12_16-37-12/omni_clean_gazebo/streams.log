@@ -1,0 +1,21 @@
+[0.043s] Invoking command in '/home/parallels/omni_clean_ws/build/omni_clean_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/build/omni_clean_gazebo -- -j4 -l4
+[0.186s] Invoked command in '/home/parallels/omni_clean_ws/build/omni_clean_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/build/omni_clean_gazebo -- -j4 -l4
+[0.187s] Invoking command in '/home/parallels/omni_clean_ws/build/omni_clean_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/build/omni_clean_gazebo
+[0.195s] -- Install configuration: ""
+[0.195s] -- Execute custom install script
+[0.196s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/package_run_dependencies/omni_clean_gazebo
+[0.205s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/parent_prefix_path/omni_clean_gazebo
+[0.211s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.sh
+[0.218s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.dsv
+[0.225s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.sh
+[0.230s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.dsv
+[0.238s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.bash
+[0.244s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.sh
+[0.250s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.zsh
+[0.255s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.dsv
+[0.265s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/package.dsv
+[0.275s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/packages/omni_clean_gazebo
+[0.285s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig.cmake
+[0.292s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig-version.cmake
+[0.298s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/package.xml
+[0.306s] Invoked command in '/home/parallels/omni_clean_ws/build/omni_clean_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/build/omni_clean_gazebo

@@ -1,0 +1,1 @@
+/home/parallels/omni_clean_ws/build/omni_clean_bringup/ament_cmake_environment_hooks/local_setup.sh

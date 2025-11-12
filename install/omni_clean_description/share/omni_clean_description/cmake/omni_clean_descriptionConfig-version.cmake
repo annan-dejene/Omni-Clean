@@ -1,0 +1,1 @@
+/home/parallels/omni_clean_ws/build/omni_clean_description/ament_cmake_core/omni_clean_descriptionConfig-version.cmake

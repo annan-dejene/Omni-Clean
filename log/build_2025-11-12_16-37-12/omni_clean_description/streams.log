@@ -1,0 +1,21 @@
+[0.034s] Invoking command in '/home/parallels/omni_clean_ws/build/omni_clean_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/build/omni_clean_description -- -j4 -l4
+[0.182s] Invoked command in '/home/parallels/omni_clean_ws/build/omni_clean_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/parallels/omni_clean_ws/build/omni_clean_description -- -j4 -l4
+[0.193s] Invoking command in '/home/parallels/omni_clean_ws/build/omni_clean_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/build/omni_clean_description
+[0.201s] -- Install configuration: ""
+[0.205s] -- Execute custom install script
+[0.205s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/package_run_dependencies/omni_clean_description
+[0.215s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/parent_prefix_path/omni_clean_description
+[0.221s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.sh
+[0.228s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.dsv
+[0.235s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/path.sh
+[0.240s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/path.dsv
+[0.247s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.bash
+[0.254s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.sh
+[0.261s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.zsh
+[0.267s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.dsv
+[0.277s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/package.dsv
+[0.288s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/packages/omni_clean_description
+[0.296s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig.cmake
+[0.312s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig-version.cmake
+[0.325s] -- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/package.xml
+[0.347s] Invoked command in '/home/parallels/omni_clean_ws/build/omni_clean_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/parallels/omni_clean_ws/build/omni_clean_description

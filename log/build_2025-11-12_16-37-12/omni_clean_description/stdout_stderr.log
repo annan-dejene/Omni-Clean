@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/package_run_dependencies/omni_clean_description
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/parent_prefix_path/omni_clean_description
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/path.sh
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/environment/path.dsv
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.bash
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.sh
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.zsh
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/local_setup.dsv
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/package.dsv
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/ament_index/resource_index/packages/omni_clean_description
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig.cmake
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/cmake/omni_clean_descriptionConfig-version.cmake
+-- Symlinking: /home/parallels/omni_clean_ws/install/omni_clean_description/share/omni_clean_description/package.xml

@@ -1,0 +1,15 @@
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/package_run_dependencies/omni_clean_gazebo
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/parent_prefix_path/omni_clean_gazebo
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.sh
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/ament_prefix_path.dsv
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.sh
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/environment/path.dsv
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.bash
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.sh
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.zsh
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/local_setup.dsv
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/package.dsv
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/ament_index/resource_index/packages/omni_clean_gazebo
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig.cmake
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/cmake/omni_clean_gazeboConfig-version.cmake
+/home/parallels/omni_clean_ws/install/omni_clean_gazebo/share/omni_clean_gazebo/package.xml
