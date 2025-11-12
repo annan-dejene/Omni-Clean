@@ -25,3 +25,11 @@ if(BUILD_TESTING)
 endif()
 
 ament_package()
+
+
+find_package(ament_cmake REQUIRED)
+find_package(ros_gz_sim REQUIRED)
+find_package(robot_state_publisher REQUIRED)
+find_package(xacro REQUIRED)
+install(DIRECTORY launch DESTINATION share/${PROJECT_NAME})
+ament_package()
