@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<robot name="omni_clean_drone" xmlns:xacro="http://www.ros.org/wiki/xacro">
+  <xacro:property name="m_base" value="1.2"/> <!-- kg -->
+  <xacro:property name="arm" value="0.22"/>   <!-- m -->
+
+  <link name="base_link">
+    <inertial><mass value="${m_base}"/>
+      <origin xyz="0 0 0"/>
+      <inertia ixx="0.02" iyy="0.02" izz="0.03" ixy="0" ixz="0" iyz="0"/>
+    </inertial>
+    <visual><geometry><box size="0.25 0.25 0.06"/></geometry></visual>
+    <collision><geometry><box size="0.25 0.25 0.06"/></geometry></collision>
+  </link>
+
+  <!-- 4 motor stubs (visuals for now) -->
+  <xacro:macro name="arm_motor" params="name x y">
+    <link name="${name}">
+      <visual><geometry><cylinder radius="0.03" length="0.02"/></geometry></visual>
+      <collision><geometry><cylinder radius="0.03" length="0.02"/></geometry></collision>
+    </link>
+    <joint name="${name}_joint" type="fixed">
+      <parent link="base_link"/><child link="${name}"/>
+      <origin xyz="${x} ${y} 0.03"/>
+    </joint>
+  </xacro:macro>
+
+  <xacro:arm_motor name="motor_fl" x="${arm}"  y="${arm}"/>
+  <xacro:arm_motor name="motor_fr" x="${arm}"  y="-${arm}"/>
+  <xacro:arm_motor name="motor_bl" x="-${arm}" y="${arm}"/>
+  <xacro:arm_motor name="motor_br" x="-${arm}" y="-${arm}"/>
+
+  <!-- IMU for later control/sensing -->
+  <gazebo reference="base_link">
+    <sensor name="imu" type="imu">
+      <update_rate>200</update_rate>
+    </sensor>
+  </gazebo>
+</robot>
